@@ -1,5 +1,4 @@
 """
-DecodeLabs AI Internship - Project 4 (Optional)
 Image & Text Recognition - OCR Pipeline
 """
 
